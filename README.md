@@ -1,4 +1,4 @@
-## Hi there 👋, I am Hemanth!<div class="tenor-gif-embed" data-postid="7758316" data-share-method="host" data-width="100%" data-aspect-ratio="1.2842105263157895"><a href="https://tenor.com/view/itachi-middle-finger-dirty-finger-fuck-you-flip-off-gif-7758316">Itachi Middle Finger GIF</a> from <a href="https://tenor.com/search/itachi-gifs">Itachi GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+## Hi there 👋, I am Hemanth!
 
 <!--
 **SHERLAHEMANTH001/SHERLAHEMANTH001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
