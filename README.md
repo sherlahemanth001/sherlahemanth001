@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**sherlahemanth001/sherlahemanth001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SHERLAHEMANTH001/SHERLAHEMANTH001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning Django
+- 👯 I’m looking to collaborate on GitHub
+- 📫 How to reach me: sherlahemanth001@gmail.com
+- 😄 Pronouns: He, His
+- ⚡ Fun fact about me: I search for meaning and purpose, even in small things.
+
+<img src="https://github-readme-stats.vercel.app/api?username=sherlahemanth001&&show_icons=true&title_color=ffffff&icon_color=34eb4f&text_color=daf7dc&bg_color=151519">
