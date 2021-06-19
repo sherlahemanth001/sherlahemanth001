@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning AI & ML
 - 👯 I’m looking to collaborate on GitHub
 - 📫 How to reach me: sherlahemanth001@gmail.com
 - 😄 Pronouns: He, His
